@@ -1,16 +1,16 @@
-
 #include <iostream>
 #include <string>
+
 #include "hash.h"
 
 using namespace std;
 
 int main()
 {
-    hash hashObj;
+    hash1 hashObj;
     int index;
-    index = hashObj.HASH("Noureddine");
-    cout << "l'index est " << index << endl;
+    index = hashObj.HASH("Kerzazi");
+
 
     return 0;
 }
