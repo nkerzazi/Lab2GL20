@@ -19,7 +19,8 @@ class hash1{
         item* HashTable[tailleTableau];
 
     public:
-        hash1();
+        //hash1();
+        int HASH(string cle);
 
 
 

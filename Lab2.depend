@@ -1,4 +1,10 @@
 # depslib dependency file v1.0
-1584201820 source:c:\gl\lab2gl20\main.cpp
+1605182460 source:c:\gl\lab2gl20\main.cpp
 	<iostream>
+	<string>
+	"hash.h"
+
+1605182301 c:\gl\lab2gl20\hash.h
+	<iostream>
+	<string>
 
